@@ -1,0 +1,518 @@
+{
+    "data": {
+      "categories": [
+        {
+          "name": "Food",
+          "subcategories": [
+            {
+              "name": "Roti",
+              "menuItems": [
+                {
+                  "description": "Plain Roti",
+                  "price": 15
+                },
+                {
+                  "description": "Butter Roti",
+                  "price": 20
+                },
+                {
+                  "description": "Cheese garlic Naan",
+                  "price": 80
+                },
+                {
+                  "description": "Garlic Naan",
+                  "price": 80
+                },
+                {
+                  "description": "Chilly cheese garlic naan",
+                  "price": 80
+                },
+                {
+                  "description": "Laccha paratha Butter",
+                  "price": 40
+                },
+                {
+                  "description": "Plain Paratha",
+                  "price": 30
+                },
+                {
+                  "description": "Plain Naan",
+                  "price": 30
+                },
+                {
+                  "description": "Chicken Stuff naan",
+                  "price": 150
+                },
+                {
+                  "description": "Paneer stuff naan",
+                  "price": 110
+                },
+                {
+                  "description": "Tawa Chapati",
+                  "price": 10
+                }
+              ]
+            },
+            {
+              "name": "Indian Main course",
+              "menuItems": [
+                {
+                  "description": "Dal Fry",
+                  "price": 190
+                },
+                {
+                  "description": "dal makhani",
+                  "price": 220
+                },
+                {
+                  "description": "Dal Tadka",
+                  "price": 190
+                },
+                {
+                  "description": "Paneer Masala",
+                  "price": 210
+                },
+                {
+                  "description": "Veg kadai",
+                  "price": 210
+                },
+                {
+                  "description": "Veg handi",
+                  "price": 210
+                },
+                {
+                  "description": "Veg Kolhapuri",
+                  "price": 210
+                },
+                {
+                  "description": "Paneer Tikka masala",
+                  "price": 200
+                },
+                {
+                  "description": "Paneer Butter Masala",
+                  "price": 230
+                },
+                {
+                  "description": "Palak Paneer",
+                  "price": 220
+                },
+                {
+                  "description": "Methi Masala",
+                  "price": 190
+                }
+              ]
+            },
+            {
+              "name": "Biryani",
+              "menuItems": [
+                {
+                  "description": "Vegetable Biryani",
+                  "price": 160
+                },
+                {
+                  "description": "Paneer Biryani",
+                  "price": 200
+                },
+                {
+                  "description": "Chicken Biryani",
+                  "price": 200
+                },
+                {
+                  "description": "Chicken Dum Biryani",
+                  "price": 220
+                },
+                {
+                  "description": "Egg Biryani",
+                  "price": 200
+                }
+              ]
+            },
+            {
+              "name": "Chinese",
+              "menuItems": [
+                {
+                  "description": "Chicken Lollypop (6 Pieces)",
+                  "price": 160
+                },
+                {
+                  "description": "Chilly Chicken. (8 Pieces)",
+                  "price": 190
+                },
+                {
+                  "description": "Chicken 65",
+                  "price": 180
+                },
+                {
+                  "description": "Chicken Crispy",
+                  "price": 160
+                },
+                {
+                  "description": "chicken triple schezwan fried rice",
+                  "price": 200
+                },
+                {
+                  "description": "Chicken Fried Rice",
+                  "price": 130
+                },
+                {
+                  "description": "Egg fried rice",
+                  "price": 110
+                },
+                {
+                  "description": "Veg fried rice",
+                  "price": 110
+                },
+                {
+                  "description": "veg schezwan fried rice",
+                  "price": 120
+                },
+                {
+                  "description": "american chopsuey",
+                  "price": 200
+                },
+                {
+                  "description": "chinese chopsuey",
+                  "price": 150
+                },
+                {
+                  "description": "Gobi Manchurian",
+                  "price": 130
+                },
+                {
+                  "description": "Veg Manchurian",
+                  "price": 140
+                },
+                {
+                  "description": "Goan Chilly",
+                  "price": 160
+                }
+              ]
+            },
+            {
+              "name": "Noodles",
+              "menuItems": [
+                {
+                  "description": "Veg Hakka Noodles",
+                  "price": 180
+                },
+                {
+                  "description": "Chicken Hakka Noodles",
+                  "price": 200
+                }
+              ]
+            },
+            {
+              "name": "Fish",
+              "menuItems": [
+                {
+                  "description": "Bangada (Rawa/Tawa Fry) 1 Piece",
+                  "price": 80
+                },
+                {
+                  "description": "Bangada Tandoori (1 piece)",
+                  "price": 120
+                },
+                {
+                  "description": "Kingfish (Rawa/Tawa Fry) (2 Piece)",
+                  "price": 300
+                },
+                {
+                  "description": "Prawns Masala Fry (8 pieces)",
+                  "price": 200
+                },
+                {
+                  "description": "Prawns Rawa Fry (8 Pieces)",
+                  "price": 200
+                },
+                {
+                  "description": "Fish Curry Rice only",
+                  "price": 130
+                }
+              ]
+            },
+            {
+              "name": "Soup",
+              "menuItems": [
+                {
+                  "description": "Chicken Manchow",
+                  "price": 130
+                },
+                {
+                  "description": "Veg Manchow",
+                  "price": 110
+                },
+                {
+                  "description": "Chicken Hot and Sour",
+                  "price": 130
+                },
+                {
+                  "description": "Veg Hot and Sour",
+                  "price": 110
+                }
+              ]
+            },
+            {
+              "name": "All day (Veg)",
+              "menuItems": [
+                {
+                  "description": "Maggi",
+                  "price": 50
+                },
+                {
+                  "description": "Upma",
+                  "price": 50
+                },
+                {
+                  "description": "Poha",
+                  "price": 50
+                },
+                {
+                  "description": "Bread Jam",
+                  "price": 30
+                },
+                {
+                  "description": "Vada Pao",
+                  "price": 30
+                },
+                {
+                  "description": "Aaloo Paratha",
+                  "price": 60
+                },
+                {
+                  "description": "Schezwan maggi",
+                  "price": 80
+                },
+                {
+                  "description": "Green Salad",
+                  "price": 80
+                },
+                {
+                  "description": "Bread Jam with Peanut Butter",
+                  "price": 40
+                }
+              ]
+            },
+            {
+              "name": "All day (Non-veg)",
+              "menuItems": [
+                {
+                  "description": "omelette",
+                  "price": 50
+                },
+                {
+                  "description": "Egg Bhurji",
+                  "price": 80
+                },
+                {
+                  "description": "Bread Omlette",
+                  "price": 70
+                },
+                {
+                  "description": "Chicken Sandwich",
+                  "price": 90
+                },
+                {
+                  "description": "Spicy Chicken Cheese Sandwich",
+                  "price": 130
+                },
+                {
+                  "description": "Grill Chicken and Egg Sandwich",
+                  "price": 140
+                }
+              ]
+            },
+            {
+              "name": "Chole Bhature",
+              "menuItems": [
+                {
+                  "description": "Chole Bhature Sade",
+                  "price": 120
+                },
+                {
+                  "description": "Chole Bhature Paneer Wale",
+                  "price": 150
+                },
+                {
+                  "description": "Rice Chole",
+                  "price": 90
+                },
+                {
+                  "description": "2 pc Samose Chole",
+                  "price": 80
+                },
+                {
+                  "description": "2 Piece Bread Pakoda Chole",
+                  "price": 100
+                },
+                {
+                  "description": "Only Chole",
+                  "price": 70
+                }
+              ]
+            },
+            {
+              "name": "Snacks",
+              "menuItems": [
+                {
+                  "description": "Samosa",
+                  "price": 20
+                },
+                {
+                  "description": "Kanda Bhajji",
+                  "price": 70
+                },
+                {
+                  "description": "Aaloo Vada",
+                  "price": 30
+                },
+                {
+                  "description": "Bread Pakoda",
+                  "price": 40
+                },
+                {
+                  "description": "Chutney Cheese Grilled",
+                  "price": 50
+                },
+                {
+                  "description": "Veg Grilled",
+                  "price": 80
+                },
+                {
+                  "description": "Plain Curd",
+                  "price": 30
+                }
+              ]
+            },
+            {
+              "name": "Tandoori",
+              "menuItems": [
+                {
+                  "description": "Tandori Chicken (FULL)",
+                  "price": 350
+                },
+                {
+                  "description": "Tandori Chicken (Half)",
+                  "price": 190
+                },
+                {
+                  "description": "Chicken Tikka (8 Pieces)",
+                  "price": 250
+                },
+                {
+                  "description": "Chicken Malai Tikka (8 Pieces)",
+                  "price": 250
+                },
+                {
+                  "description": "chicken seekh kabab",
+                  "price": 300
+                },
+                {
+                  "description": "Pahadi Kabab",
+                  "price": 260
+                },
+                {
+                  "description": "Paneer Tikka Tandori",
+                  "price": 200
+                }
+              ]
+            },
+            {
+              "name": "Non veg (gravy)",
+              "menuItems": [
+                {
+                  "description": "Butter Chicken",
+                  "price": 290
+                },
+                {
+                  "description": "Chicken Kolhapuri",
+                  "price": 240
+                },
+                {
+                  "description": "Chicken Hyderabadi",
+                  "price": 270
+                },
+                {
+                  "description": "Chicken Sukha",
+                  "price": 241
+                },
+                {
+                  "description": "Chicken Kadai",
+                  "price": 240
+                },
+                {
+                  "description": "Chicken Masala",
+                  "price": 210
+                },
+                {
+                  "description": "Chicken Tikka Masala",
+                  "price": 200
+                },
+                {
+                  "description": "Chicken Mughlai",
+                  "price": 230
+                },
+                {
+                  "description": "Methi Chicken",
+                  "price": 200
+                },
+                {
+                  "description": "Dal Tadka Tandoori (Half)",
+                  "price": 300
+                },
+                {
+                  "description": "Dal Tadka Tandoori (Full)",
+                  "price": 500
+                },
+                {
+                  "description": "Prawns Masala",
+                  "price": 310
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Drinks",
+          "subcategories": [
+            {
+              "name": "Hot and cold drink",
+              "menuItems": [
+                {
+                  "description": "Cutting Tea",
+                  "price": 20
+                },
+                {
+                  "description": "Full tea",
+                  "price": 30
+                },
+                {
+                  "description": "Coffee",
+                  "price": 30
+                },
+                {
+                  "description": "Lemon Soda",
+                  "price": 40
+                },
+                {
+                  "description": "Lemon Water",
+                  "price": 30
+                },
+                {
+                  "description": "Lassi (Sweet)",
+                  "price": 40
+                },
+                {
+                  "description": "Masala Chaas",
+                  "price": 30
+                },
+                {
+                  "description": "Pepsi",
+                  "price": 40
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
